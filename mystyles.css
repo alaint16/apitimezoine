@@ -1,0 +1,36 @@
+body {
+	background-position: bottom;
+	background-image: url("images/black-and-white-city-skyline-buildings.jpg");
+	background-position: cover;
+	background-repeat: no-repeat;]
+	margin:0;
+	padding: 0;
+}
+
+.timeform{
+	margin:0 auto;
+	width: 70%;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.title {
+	text-align: center;
+	font-size: 60px;
+	font-weight: bold;
+	margin-top: 80px;
+}
+
+.zoneInput{
+	width: 50%;
+	height: 35px;
+}
+
+.srzone{
+	background-color: #444444;
+	font-family: arial;
+	color: #ffffff;
+	border: none;
+	width: 70px;
+	height: 35px;
+}
